@@ -1,6 +1,6 @@
 # Suite Cron
 
-[![Moonlight contractors](https://www.moonlightwork.com/shields/go.svg)](https://www.moonlightwork.com/?referredByUserID=1&referralProgram=maintainer&referrerName=Staffjoy)
+[![Moonlight contractors](https://www.moonlightwork.com/shields/go.svg)](https://www.moonlightwork.com/for/go?referredByUserID=1&referralProgram=maintainer&referrerName=Staffjoy)
 
 [Staffjoy is shutting down](https://blog.staffjoy.com/staffjoy-is-shutting-down-39f7b5d66ef6#.ldsdqb1kp), so we are open-sourcing our code. This repository is a microservice for [Staffjoy V1, aka "Suite"](https://github.com/staffjoy/suite). It performs an authenticated poll of the cron endpoint, and it reports the results to [Papertrail](https://papertrailapp.com).
 
